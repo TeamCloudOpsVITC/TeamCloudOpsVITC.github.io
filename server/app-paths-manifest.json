@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/Admin/page": "app/Admin/page.js",
+  "/Blog/[id]/page": "app/Blog/[id]/page.js",
+  "/Blog/page": "app/Blog/page.js",
+  "/Core_Committee/page": "app/Core_Committee/page.js",
+  "/Leaderboard/page": "app/Leaderboard/page.js",
+  "/Login/page": "app/Login/page.js",
+  "/Timeline/page": "app/Timeline/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
